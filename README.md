@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently a PhD Student at Stanford University. You can find out more on my [webpage](https://kdmayer.github.io/)
+- 🌱 I’m currently learning about Graph Neural Networks and Geometric Deep Learning
+- ⚡ My research focuses on the decarbonization of the building and energy sector and integrates work in computer vision, remote sensing, and GIS
+
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdmayer&theme=dark&show_icons=true)
+
 <!--
 **kdmayer/kdmayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
