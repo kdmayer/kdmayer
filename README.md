@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a PhD Student at Stanford University. You can find out more on my [webpage](https://kdmayer.github.io/).
+- 🔭 I’m currently a PhD Student at Stanford University with Martin Fischer. You can find out more on my [webpage](https://kdmayer.github.io/).
 - 🌱 I’m currently learning about Graph Neural Networks and Geometric Deep Learning.
 - ⚡ My research integrates work in computer vision and remote sensing to decarbonize the building sector.
 
