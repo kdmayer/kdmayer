@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a PhD Student at Stanford University with Martin Fischer. You can find out more on my [webpage](https://kdmayer.github.io/).
-- 🌱 I’m currently learning about Graph Neural Networks and Geometric Deep Learning.
+- 🌱 I’m currently learning about Geometric Deep Learning.
 - ⚡ I'm combining computer vision and remote sensing to decarbonize the building sector.
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdmayer&theme=dark&show_icons=true)
