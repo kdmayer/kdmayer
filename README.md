@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning about Geometric Deep Learning.
 - ⚡ I'm combining computer vision and remote sensing to decarbonize the building sector.
 
-![Kevin's GitHub stats](https://github-stats-alpha.vercel.app/api?username={kdmayer}&cc=000&tc=fff&ic=fff&bc=000)
-
 <!--
 **kdmayer/kdmayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
