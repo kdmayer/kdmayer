@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a PhD Candidate and Satre Family Fellow at Stanford University advised by Martin Fischer. You can find out more on my [webpage](https://kdmayer.github.io/).
+- 🔭 I’m currently a PhD Candidate and Satre Family Fellow at Stanford University [webpage](https://kdmayer.github.io/).
 - 🌱 I’m currently working on reconstructing 3D building models from airborne LiDAR and floor plan images at scale.
 - ⚡ At the moment, I am mostly working with diffusion-based generative machine learning algorithms for 3D graphs.
 
