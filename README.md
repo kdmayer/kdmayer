@@ -2,7 +2,7 @@
 
 - 🔭 I’m a PhD Candidate and Satre Family Fellow at Stanford University. Feel free to check out my [webpage](https://kdmayer.github.io/).
 - 🌱 I’m working on reconstructing 3D building models from airborne LiDAR and floor plan images at scale.
-- ⚡ At the moment, I am mostly working with diffusion-based generative machine learning algorithms for 3D graphs.
+- ⚡ At the moment, I am mostly working with diffusion-based generative ML algorithms for 3D graphs.
 
 <!--
 **kdmayer/kdmayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
