@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a PhD Student at Stanford University with Martin Fischer. You can find out more on my [webpage](https://kdmayer.github.io/).
-- 🌱 I’m currently learning about geometric and generative deep learning.
-- ⚡ I'm combining computer vision and remote sensing to decarbonize the building sector.
+- 🔭 I’m currently a PhD Candidate and Satre Family Fellow at Stanford University advised by Martin Fischer. You can find out more on my [webpage](https://kdmayer.github.io/).
+- 🌱 I’m currently working on reconstructing 3D building models from airborne LiDAR and floor plan images at scale.
+- ⚡ At the moment, I am mostly working with diffusion-based generative machine learning algorithms for 3D graphs.
 
 <!--
 **kdmayer/kdmayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
